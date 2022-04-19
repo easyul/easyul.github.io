@@ -1,0 +1,7 @@
+---
+title: "MVC(Model, View, Controller)"
+
+#categories: 
+---
+# MVC 패턴 구조
+MVC 패턴은 이름에서도 알 수 있듯이 모델(Model), 뷰(View), 컨트롤러(Controller) 세 개의 컴포넌트로 이루어졌습니다. 각 컴포넌트는 고유한 역할을 수행합니다.
